@@ -1,4 +1,4 @@
-# VideoMatching567
+# VideoClassification576
 Codes records of 20fall CSCI576 Final Project.
 
 Author: ZQ, LLW, ZY
